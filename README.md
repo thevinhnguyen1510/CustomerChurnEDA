@@ -8,7 +8,7 @@ This project focuses on analyzing customer churn data using the dataset from [Ka
 |-------------|-------------|
 | `Dataset/` | Contains the original dataset downloaded from Kaggle |
 | `CustomerChurn.ipynb` | Main notebook: preprocessing, exploratory data analysis, visualization, and modeling |
-| `ChurnSQL.sql` | SQL queries for extracting and processing data |
+| `ChurnSQL.sql` | SQL queries for exploring churn patterns, customer demographics, and spending behaviors |
 | `Churn_Visualization.pbix` | Power BI dashboard with visual insights about churn |
 | `README.md` | Documentation with project overview and instructions |
 
