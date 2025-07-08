@@ -17,7 +17,7 @@ This project focuses on analyzing customer churn data using the dataset from [Ka
 - Explore factors influencing customer churn
 - Analyze customer behavior based on services, contract type, payment method, etc.
 - Visualize key metrics to support churn-related decisions
-- (Optional) Build predictive models to estimate churn probability
+- Build predictive models to estimate churn probability
 
 ## 🔍 Techniques Used
 
